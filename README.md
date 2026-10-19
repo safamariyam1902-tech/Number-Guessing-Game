@@ -21,7 +21,7 @@ A simple **Number Guessing Game** built with Python. The computer randomly selec
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/safamariyam1902-tech/number-guessing-game.git
 ```
 
 ### 2. Navigate to the project folder
